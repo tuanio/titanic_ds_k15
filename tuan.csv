@@ -1,90 +1,90 @@
 ,PassengerId,Name,Age
-88,452,"Hagland, Mr. Ingvald Olai Olsen",
-89,455,"Peduzzi, Mr. Joseph",
-90,458,"Kenyon, Mrs. Frederick R (Marion)",
-91,460,"O'Connor, Mr. Maurice",
-92,465,"Maisner, Mr. Simon",
-93,467,"Campbell, Mr. William",
-94,469,"Scanlan, Mr. James",
-95,471,"Keefe, Mr. Arthur",
-96,476,"Clifford, Mr. George Quincy",
-97,482,"Frost, Mr. Anthony Wood ""Archie""",
-98,486,"Lefebre, Miss. Jeannie",
-99,491,"Hagland, Mr. Konrad Mathias Reiersen",
-100,496,"Yousseff, Mr. Gerious",
-101,498,"Shellard, Mr. Frederick William",
-102,503,"O'Sullivan, Miss. Bridget Mary",
-103,508,"Bradley, Mr. George (""George Arthur Brayton"")",
-104,512,"Webber, Mr. James",
-105,518,"Ryan, Mr. Patrick",
-106,523,"Lahoud, Mr. Sarkis",
-107,525,"Kassem, Mr. Fared",
-108,528,"Farthing, Mr. John",
-109,532,"Toufik, Mr. Nakli",
-110,534,"Peter, Mrs. Catherine (Catherine Rizk)",
-111,539,"Risien, Mr. Samuel Beard",
-112,548,"Padro y Manent, Mr. Julian",
-113,553,"O'Brien, Mr. Timothy",
-114,558,"Robbins, Mr. Victor",
-115,561,"Morrow, Mr. Thomas Rowan",
-116,564,"Simmons, Mr. John",
-117,565,"Meanwell, Miss. (Marion Ogden)",
-118,569,"Doharr, Mr. Tannous",
-119,574,"Kelly, Miss. Mary",
-120,579,"Caram, Mrs. Joseph (Maria Elias)",
-121,585,"Paulner, Mr. Uscher",
-122,590,"Murdlin, Mr. Joseph",
-123,594,"Bourke, Miss. Mary",
-124,597,"Leitch, Miss. Jessie Wills",
-125,599,"Boulos, Mr. Hanna",
-126,602,"Slabenoff, Mr. Petco",
-127,603,"Harrington, Mr. Charles H",
-128,612,"Jardin, Mr. Jose Neto",
-129,613,"Murphy, Miss. Margaret Jane",
-130,614,"Horgan, Mr. John",
-131,630,"O'Connell, Mr. Patrick D",
-132,634,"Parr, Mr. William Henry Marsh",
-133,640,"Thorneycroft, Mr. Percival",
-134,644,"Foo, Mr. Choong",
-135,649,"Willey, Mr. Edward",
-136,651,"Mitkoff, Mr. Mito",
-137,654,"O'Leary, Miss. Hanora ""Norah""",
-138,657,"Radeff, Mr. Alexander",
-139,668,"Rommetvedt, Mr. Knud Paust",
-140,670,"Taylor, Mrs. Elmer Zebley (Juliet Cummins Wright)",
-141,675,"Watson, Mr. Ennis Hastings",
-142,681,"Peters, Miss. Katie",
-143,693,"Lam, Mr. Ali",
-144,698,"Mullens, Miss. Katherine ""Katie""",
-145,710,"Moubarek, Master. Halim Gonios (""William George"")",
-146,712,"Klaber, Mr. Herman",
-147,719,"McEvoy, Mr. Michael",
-148,728,"Mannion, Miss. Margareth",
-149,733,"Knight, Mr. Robert J",
-150,739,"Ivanoff, Mr. Kanio",
-151,740,"Nankoff, Mr. Minko",
-152,741,"Hawksford, Mr. Walter James",
-153,761,"Garfirth, Mr. John",
-154,767,"Brewe, Dr. Arthur Jackson",
-155,769,"Moran, Mr. Daniel J",
-156,774,"Elias, Mr. Dibo",
-157,777,"Tobin, Mr. Roger",
-158,779,"Kilgannon, Mr. Thomas J",
-159,784,"Johnston, Mr. Andrew G",
-160,791,"Keane, Mr. Andrew ""Andy""",
-161,793,"Sage, Miss. Stella Anna",
-162,794,"Hoyt, Mr. William Fisher",
-163,816,"Fry, Mr. Richard",
-164,826,"Flynn, Mr. John",
-165,827,"Lam, Mr. Len",
-166,829,"McCormack, Mr. Thomas Joseph",
-167,833,"Saad, Mr. Amin",
-168,838,"Sirota, Mr. Maurice",
-169,840,"Marechal, Mr. Pierre",
-170,847,"Sage, Mr. Douglas Bullen",
-171,850,"Goldenberg, Mrs. Samuel L (Edwiga Grabowska)",
-172,860,"Razi, Mr. Raihed",
-173,864,"Sage, Miss. Dorothy Edith ""Dolly""",
-174,869,"van Melkebeke, Mr. Philemon",
-175,879,"Laleff, Mr. Kristo",
-176,889,"Johnston, Miss. Catherine Helen ""Carrie""",
+0,452,"Hagland, Mr. Ingvald Olai Olsen",28
+1,455,"Peduzzi, Mr. Joseph",24
+2,458,"Kenyon, Mrs. Frederick R (Marion)",40
+3,460,"O'Connor, Mr. Maurice",15
+4,465,"Maisner, Mr. Simon",34
+5,467,"Campbell, Mr. William",20
+6,469,"Scanlan, Mr. James",20
+7,471,"Keefe, Mr. Arthur",44
+8,476,"Clifford, Mr. George Quincy",40
+9,482,"Frost, Mr. Anthony Wood ""Archie""",38
+10,486,"Lefebre, Miss. Jeannie",8
+11,491,"Hagland, Mr. Konrad Mathias Reiersen",19
+12,496,"Yousseff, Mr. Gerious",45
+13,498,"Shellard, Mr. Frederick William",55
+14,503,"O'Sullivan, Miss. Bridget Mary",21
+15,508,"Bradley, Mr. George (""George Arthur Brayton"")",37
+16,512,"Webber, Mr. James",66
+17,518,"Ryan, Mr. Patrick",32
+18,523,"Lahoud, Mr. Sarkis",35
+19,525,"Kassem, Mr. Fared",19
+20,528,"Farthing, Mr. John",48
+21,532,"Toufik, Mr. Nakli",17
+22,534,"Peter, Mrs. Catherine (Catherine Rizk)",23
+23,539,"Risien, Mr. Samuel Beard",69
+24,548,"Padro y Manent, Mr. Julian",26
+25,553,"O'Brien, Mr. Timothy",22
+26,558,"Robbins, Mr. Victor",45
+27,561,"Morrow, Mr. Thomas Rowan",31
+28,564,"Simmons, Mr. John",40
+29,565,"Meanwell, Miss. (Marion Ogden)",63
+30,569,"Doharr, Mr. Tannous",28
+31,574,"Kelly, Miss. Mary",22
+32,579,"Caram, Mrs. Joseph (Maria Elias)",18
+33,585,"Paulner, Mr. Uscher",16
+34,590,"Murdlin, Mr. Joseph",22
+35,594,"Bourke, Miss. Mary",40
+36,597,"Leitch, Miss. Jessie Wills",31
+37,599,"Boulos, Mr. Hanna",18
+38,602,"Slabenoff, Mr. Petco",42
+39,603,"Harrington, Mr. Charles H",37
+40,612,"Jardin, Mr. Jose Neto",21
+41,613,"Murphy, Miss. Margaret Jane",25
+42,614,"Horgan, Mr. John",22
+43,630,"O'Connell, Mr. Patrick D",18
+44,634,"Parr, Mr. William Henry Marsh",29
+45,640,"Thorneycroft, Mr. Percival",36
+46,644,"Foo, Mr. Choong",32
+47,649,"Willey, Mr. Edward",20
+48,651,"Mitkoff, Mr. Mito",23
+49,654,"O'Leary, Miss. Hanora ""Norah""",16
+50,657,"Radeff, Mr. Alexander",27
+51,668,"Rommetvedt, Mr. Knud Paust",49
+52,670,"Taylor, Mrs. Elmer Zebley (Juliet Cummins Wright)",49
+53,675,"Watson, Mr. Ennis Hastings",18
+54,681,"Peters, Miss. Katie",27
+55,693,"Lam, Mr. Ali",38
+56,698,"Mullens, Miss. Katherine ""Katie""",21
+57,710,"Moubarek, Master. Halim Gonios (""William George"")",4
+58,712,"Klaber, Mr. Herman",41
+59,719,"McEvoy, Mr. Michael",20
+60,728,"Mannion, Miss. Margareth",28
+61,733,"Knight, Mr. Robert J",42
+62,739,"Ivanoff, Mr. Kanio",20
+63,740,"Nankoff, Mr. Minko",32
+64,741,"Hawksford, Mr. Walter James",45
+65,761,"Garfirth, Mr. John",21
+66,767,"Brewe, Dr. Arthur Jackson",45
+67,769,"Moran, Mr. Daniel J",28
+68,774,"Elias, Mr. Dibo",29
+69,777,"Tobin, Mr. Roger",20
+70,779,"Kilgannon, Mr. Thomas J",21
+71,784,"Johnston, Mr. Andrew G",35
+72,791,"Keane, Mr. Andrew ""Andy""",23
+73,793,"Sage, Miss. Stella Anna",20
+74,794,"Hoyt, Mr. William Fisher",43
+75,816,"Fry, Mr. Richard",39
+76,826,"Flynn, Mr. John",48
+77,827,"Lam, Mr. Len",23
+78,829,"McCormack, Mr. Thomas Joseph",19
+79,833,"Saad, Mr. Amin",30
+80,838,"Sirota, Mr. Maurice",19
+81,840,"Marechal, Mr. Pierre",29
+82,847,"Sage, Mr. Douglas Bullen",18
+83,850,"Goldenberg, Mrs. Samuel L (Edwiga Grabowska)",46
+84,860,"Razi, Mr. Raihed",30
+85,864,"Sage, Miss. Dorothy Edith ""Dolly""",14
+86,869,"van Melkebeke, Mr. Philemon",23
+87,879,"Laleff, Mr. Kristo",23
+88,889,"Johnston, Miss. Catherine Helen ""Carrie""",7
